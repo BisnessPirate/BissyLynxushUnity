@@ -13,14 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitLogCache
   cacheType: 3
-  lastUpdatedAtString: 2023-09-18T17:48:04.101+02:00
+  lastUpdatedAtString: 2023-09-18T18:45:06.240+02:00
   initializedAtString: 2023-09-18T17:45:43.868+02:00
   log:
-  - commitID: dacaa8752d8b987ec48b8015cc5f09c69c4b760c
+  - commitID: dd6b615b0b5ae53b5d82921ea46b4d9f30d7c3e8
     mergeA: 
     mergeB: 
     authorName: BisnessPirate
     authorEmail: 33259258+BisnessPirate@users.noreply.github.com
+    commitEmail: 33259258+BisnessPirate@users.noreply.github.com
+    commitName: BisnessPirate
+    summary: push library
+    description: lib
+    timeString: 2023-09-18T17:49:53.000+02:00
+    commitTimeString: 2023-09-18T17:49:53.000+02:00
+    changes: []
+  - commitID: "A\tLibrary/APIUpdater/ConfigurationCache/UnityEditor.dll.32142714E3CA3C3A0798D7CFE94C72A71791FC0FDC8DB901E698B5949639813E.apiupaterconfigs"
+    mergeA: 
+    mergeB: 
+    authorName: "A\tLibrary/APIUpdater/project-dependencies.graph"
+    authorEmail: "A\tLibrary/AnnotationManager"
     commitEmail: 33259258+BisnessPirate@users.noreply.github.com
     commitName: BisnessPirate
     summary: push settings

@@ -13,12 +13,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:BranchesCache
   cacheType: 2
-  lastUpdatedAtString: 2023-09-18T17:48:03.582+02:00
+  lastUpdatedAtString: 2023-09-18T17:53:17.614+02:00
   initializedAtString: 2023-09-18T17:45:44.127+02:00
   localBranches: []
-  remoteBranches:
-  - name: origin/main
-    tracking: '[None]'
+  remoteBranches: []
   remotes:
   - name: origin
     url: https://github.com/BisnessPirate/BissyLynxushUnity.git
@@ -34,15 +32,9 @@ MonoBehaviour:
     keys:
     - origin
     subKeys:
-    - Values:
-      - main
+    - Values: []
     subKeyValues:
-    - Values:
-      - name: main
-        remote:
-          name: origin
-          url: https://github.com/BisnessPirate/BissyLynxushUnity.git
-        trackingBranch: 
+    - Values: []
   configRemotes:
     keys:
     - origin
